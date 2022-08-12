@@ -9,3 +9,9 @@ Keeps track of basketball scores for two teams. This is a Single screen app and 
 - Pre-built point system and reset button 
 - App designed with Material Design Guidelines 
 - Version Control with Git and GitHub
+
+Pre-requisites
+--------------
+
+- Android SDK v32
+- Android Build Tools v33.0.1
